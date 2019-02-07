@@ -1,0 +1,23 @@
+{
+  "name": "hexo-tag-bili",
+  "version": "1.0.0",
+  "description": "Embed bilibili video in Hexo posts/pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/honjun/hexo-tag-bili.git"
+  },
+  "keywords": [
+    "hexo",
+    "bili"
+  ],
+  "author": "hojun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/honjun/hexo-tag-bili/issues"
+  },
+  "homepage": "https://github.com/honjun/hexo-tag-bili#readme"
+}
