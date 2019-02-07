@@ -1,8 +1,8 @@
 # hexo-tag-bili
-在Hexo博客文章或者单页面中加入样式优美bilibili外链播放器
+在Hexo博客文章或者单页面中加入样式优美bilibili外链播放器。[英文文档](https://github.com/honjun/hexo-tag-bili/blob/master/README.md)
 
 ## 语法:
-{% bili video_id %} or {% bili video_id page %}
+{% bili video_id %} 或 {% bili video_id page %}
 
 ## 使用方式
 
@@ -12,7 +12,7 @@ npm i hexo-tag-bili --save
 ```
 在Hexo博客的文章或者单页面中使用以下标签语法插入视频
 ```markdown
-{% bili video_id %} or {% bili video_id page %}
+{% bili video_id %} 或 {% bili video_id page %}
 ```
 ## 例子: 
 如果视频网址如：https://www.bilibili.com/video/av24897960

@@ -1,5 +1,5 @@
 # hexo-tag-bili
-Embed bilibili video in Hexo posts/pages
+Embed bilibili video in Hexo posts/pages [中文文档](https://github.com/honjun/hexo-tag-bili/blob/master/README-zh_cn.md)
 
 ## Syntax:
 {% bili video_id %} or {% bili video_id page %}
